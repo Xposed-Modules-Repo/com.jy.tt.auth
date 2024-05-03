@@ -3,4 +3,4 @@
 - 分身使用官方wx登录
 - 第三方应用使用分身wx登录
 
-## 团团分身最新版[下载地址](https://a.app.qq.com/o/simple.jsp?pkgname=com.jy.x.separation.manager)
+## 团团分身最新版[下载地址](https://www.ttfs.vip/)
